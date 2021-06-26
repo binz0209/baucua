@@ -1,1 +1,1 @@
-Worker: python dcbinz.py
+Worker: python bot.py
